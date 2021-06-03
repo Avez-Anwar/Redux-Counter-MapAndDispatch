@@ -1,2 +1,2 @@
-# Redux-Counter-MapAndDispatch
+# ReactRedux-Cake-App
 Created with CodeSandbox
